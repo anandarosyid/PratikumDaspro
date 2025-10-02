@@ -3,5 +3,5 @@ hello github ini  adalah repository pertama rosyid
 ini fitur 1
 ini fitur 2
 
-ini fitur baru ditambahkan
+ini fitur baru di tambahkan
 

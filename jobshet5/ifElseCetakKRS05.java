@@ -28,8 +28,8 @@ public class ifElseCetakKRS05 {
         }
         sc.close();
         
-        }
+    }
 
-         }
+}
         
     
